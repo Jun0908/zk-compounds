@@ -1,9 +1,7 @@
 ## zk-compounds
 
 ### ▶︎Overview
-This project aims to develop a system utilizing Zero-Knowledge Proof (ZKP) to verify that chemical substances meet regulatory standards while protecting sensitive information.
-
-Ensuring that chemical substances comply with laws and regulations is crucial. However, disclosing detailed information about these substances poses risks in terms of intellectual property protection and maintaining competitive advantage. To address this issue, we are implementing a system that allows companies to securely prove that their chemical substances meet regulatory standards without revealing specific data, leveraging Zero-Knowledge Proof technology.
+This project develops a system using Zero-Knowledge Proof (ZKP) to verify that chemical substances comply with regulations while safeguarding sensitive information. The system enables companies to prove regulatory compliance without disclosing detailed data, protecting intellectual property and competitive advantage.
 
 ### ▶︎Problems
   
