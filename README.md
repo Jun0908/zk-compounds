@@ -19,9 +19,10 @@ https://docs.minaprotocol.com/using-mina/install-a-wallet
 Receive Devnet tokens via Faucet
 https://faucet.minaprotocol.com/
 
+```bash
 cd UI
 
 yarn 
 
 yarn run dev
-
+```
