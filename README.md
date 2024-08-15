@@ -13,10 +13,12 @@ This issue can be resolved by using the Mina Protocol. Specifically, the chemica
 
 ### ▶︎How to excute
 
-Install the Wallet
+(1) Install the Wallet
+
 https://docs.minaprotocol.com/using-mina/install-a-wallet
 
-Receive Devnet tokens via Faucet
+(2) Receive Devnet tokens via Faucet
+
 https://faucet.minaprotocol.com/
 
 ```bash
