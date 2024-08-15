@@ -21,10 +21,10 @@ https://docs.minaprotocol.com/using-mina/install-a-wallet
 
 https://faucet.minaprotocol.com/
 
+(2) Start Frontend
+
 ```bash
 cd UI
-
 yarn 
-
 yarn run dev
 ```
