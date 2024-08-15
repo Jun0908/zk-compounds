@@ -15,6 +15,6 @@ This issue can be resolved by using the Mina Protocol. Specifically, the chemica
 
 In this project, we addressed the issues and solutions related to allergy management in restaurants. However, the application of Zero-Knowledge Proof technology extends beyond this. For instance, in the pharmaceutical and chemical industries, companies can use this technology to prove that their products meet stringent regulatory standards without disclosing the composition details in their Safety Data Sheets (SDS). Thus, Zero-Knowledge Proof offers a powerful means to balance intellectual property protection with regulatory compliance.
 
-### ▶︎Implementation Status
+### ▶︎How to excute
 
 
